@@ -1,4 +1,4 @@
 # Sandbox
-Project for various tests
+Project for various tests.
 
-Project for testing various scenarios
+Project for testing various scenarios.
